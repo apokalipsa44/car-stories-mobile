@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/car_stories/car_stories.iml" filepath="$PROJECT_DIR$/car_stories/car_stories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snadbox_flutter/snadbox_flutter.iml" filepath="$PROJECT_DIR$/snadbox_flutter/snadbox_flutter.iml" />
+    </modules>
+  </component>
+</project>
